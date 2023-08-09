@@ -1,0 +1,3 @@
+"E:\Program Files (x86)\Clion\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\subMatrix.dir/objects.a
+E:\PROGRA~2\Dev-Cpp\MinGW64\bin\ar.exe cr CMakeFiles\subMatrix.dir/objects.a @CMakeFiles\subMatrix.dir\objects1.rsp
+E:\PROGRA~2\Dev-Cpp\MinGW64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\subMatrix.dir/objects.a -Wl,--no-whole-archive -o subMatrix.exe -Wl,--out-implib,libsubMatrix.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\subMatrix.dir\linklibs.rsp
