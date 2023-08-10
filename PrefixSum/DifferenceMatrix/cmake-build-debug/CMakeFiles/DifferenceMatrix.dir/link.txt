@@ -1,0 +1,3 @@
+"E:\Program Files (x86)\Clion\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\DifferenceMatrix.dir/objects.a
+E:\PROGRA~2\Dev-Cpp\MinGW64\bin\ar.exe cr CMakeFiles\DifferenceMatrix.dir/objects.a @CMakeFiles\DifferenceMatrix.dir\objects1.rsp
+E:\PROGRA~2\Dev-Cpp\MinGW64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\DifferenceMatrix.dir/objects.a -Wl,--no-whole-archive -o DifferenceMatrix.exe -Wl,--out-implib,libDifferenceMatrix.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\DifferenceMatrix.dir\linklibs.rsp
